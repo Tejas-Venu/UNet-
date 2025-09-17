@@ -1,0 +1,11 @@
+# Django and related libraries
+django==4.2
+djangorestframework==3.14.0
+django-cors-headers==3.13.0
+
+# PostgreSQL database support
+psycopg2-binary==2.9.7
+
+# Security packages
+django-environ==0.10.0
+djangorestframework-simplejwt==5.2.2
