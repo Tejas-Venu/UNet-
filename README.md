@@ -13,7 +13,7 @@ A full-stack platform that connects **users with NGOs**, enabling **donations, v
 - **Cross-Platform Mobile App** – Built with **Flutter**, ensuring accessibility and ease of use.  
 
 
-> ⚠️ **Note**: The **Flutter app code is not included in this repository** to keep the design and implementation of the mobile application design confidential/private. This repository contains the **Django backend** and related services only.  
+> ⚠️ **Note**: The **Flutter app code is not included in this repository** to keep the design and implementation of the mobile application confidential. This repository contains the **Django backend** and related services only.  
 
 
 ## 🛠 Tech Stack  
